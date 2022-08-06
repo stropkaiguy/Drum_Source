@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4 {
+    color: white;
+    font-family: 'Carter One', Arial, Helvetica, sans-serif
+}
+
+p {
+    color: white;
+}
+
+#drumSource {
+    color: black;
+}
+
+
+
+.card-text {
+    color: black;
+}
+
+.footer-p{
+    color: black;
+}
+
+.jumbo1 {
+    
+    padding: 10px;
+    margin: 0;
+    background: rgba(204, 204, 204, 0.8);
+}
+
+.jumbo2 {
+    color: white;
+    background: rgba(20, 19, 19, 0.8);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.jumbo3{
+    padding: 10px;
+    background: rgba(20, 19, 19, 0.8);
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+}
+
+.jumboGear2 {
+    padding: 10px;
+    background: rgba(204, 204, 204, 0.8);
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.jumboAbout {
+    background: rgba(20, 19, 19, 0.8);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.mission-header {
+    text-align: center;
+    color:gainsboro;
+    
+   }
+
+.mission-statement {
+    text-align: center;
+    color: white;
+}
+
+.footer-site {
+    background-color: white;
+    color: black;
+    
+}
+
+.media-body{
+    color: white;
+}
+
+.gear {
+    color: black;
+}
+
